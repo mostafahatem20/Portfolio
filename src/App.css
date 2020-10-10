@@ -1421,10 +1421,4 @@ span.fancy:before {
   .bar i {
     display: none !important;
   }
-  .icon-bar1 a {
-    margin-left: 0;
-  }
-  .follow1 {
-    padding-left: 5px;
-  }
 }
